@@ -43,7 +43,7 @@ Email: wyoo@tamu.edu
 
 ## Authors
 
-Dr. Wonjae Yoo / Texas A&M University / wyoo@tamu.edu
-Dr. Mark J. Clayton / Texas A&M University 
-Dr. Wei Yan / Texas A&M University 
+* Dr. Wonjae Yoo / Texas A&M University / wyoo@tamu.edu
+* Dr. Mark J. Clayton / Texas A&M University 
+* Dr. Wei Yan / Texas A&M University 
 
