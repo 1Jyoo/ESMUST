@@ -28,26 +28,22 @@ ESMUST was built using C# coding and operated in Autodesk Revit Dynamo tool.
 4) Click ‘Path’ variable and click ‘Edit’ 
 ![image](https://user-images.githubusercontent.com/85502888/205560405-34eef661-72fc-4b76-9a47-7322cb4e16c1.png)
 
-5)	Click ‘New’ and type the cloned folder’s directory 
+5) Click ‘New’ and type the cloned folder’s directory (e.g., C:\Program Files\Autodesk\Revit 2022\ESMUST).
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+1) Start the Revit program 
+2) Run ‘Dynamo’ in the Manage tab of the Revit software and load the example dynamo file, named Example.dyn, in the cloned folder. 
+3) Click ‘File -> Import Library’ in the Dynamo to load ESMUST model. You can find the file, ESMUST.dll, in the cloned folder (e.g., C:\Program Files\Autodesk\Revit 2022\ESMUST\ESMUST.dll)
+4) Click ‘Run’ at the bottom of the Dynamo to see the surface temperature results. 
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Email: wyoo@tamu.edu
 
 ## Authors
 
-Contributors names and contact info
-
-
+Dr. Wonjae Yoo / Texas A&M University / wyoo@tamu.edu
+Dr. Mark J. Clayton / Texas A&M University 
+Dr. Wei Yan / Texas A&M University 
 
