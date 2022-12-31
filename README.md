@@ -24,9 +24,10 @@ ESMUST was built using C# coding and operated in Autodesk Revit Dynamo tool.
 1) Clone the GitHub repository
 2) Place the cloned folder in the Revit folder (e.g., “C:\Program Files\Autodesk\Revit 2022”)
 3) Search and open ‘Edit environment variables for your account’ on the Start menu
-![image](https://user-images.githubusercontent.com/85502888/205560320-78cc645e-3c92-4b0a-acb6-81625403aa3b.png)
+<img src="https://user-images.githubusercontent.com/85502888/205560320-78cc645e-3c92-4b0a-acb6-81625403aa3b.png" width="50%" height="50%">
+
 4) Click ‘Path’ variable and click ‘Edit’ 
-![image](https://user-images.githubusercontent.com/85502888/205560405-34eef661-72fc-4b76-9a47-7322cb4e16c1.png)
+<img src="https://user-images.githubusercontent.com/85502888/205560405-34eef661-72fc-4b76-9a47-7322cb4e16c1.png" width="50%" height="50%">
 
 5) Click ‘New’ and type the cloned folder’s directory (e.g., C:\Program Files\Autodesk\Revit 2022\ESMUST).
 
