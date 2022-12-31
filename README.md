@@ -9,7 +9,7 @@ This study presents a new urban surface temperature prediction model called the 
 ESMUST was built using artificial neural networks with 42 million entries of a synthetic dataset and thirteen input features. 
 During the validation process, ESMUST achieved 0.964 percent bias and efficiently predicted the surface temperature of 3D urban models with fewer inputs.
 
-ESMUST was built using C# coding and operated in Autodesk Revit Dynamo tool.
+ESMUST was built using C# coding and is operating in Autodesk Revit Dynamo tool.
 
 ## Getting Started
 
