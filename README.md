@@ -1,6 +1,6 @@
 # ESMUST
 
-This is a repository to share the outcome model of the journal paper (ESMUST: EnergyPlus-driven surrogate model for urban surface temperature prediction).
+This is a repository to share the outcome model of the journal paper (ESMUST: EnergyPlus-driven surrogate model for urban surface temperature prediction (https://www.sciencedirect.com/science/article/pii/S0360132322011659)).
 The model predicts urban surface temperatures based on thirteen inputs of urban and building conditions.
 
 ## Description
@@ -42,5 +42,7 @@ ESMUST was built using C# coding and operated in Autodesk Revit Dynamo tool.
 
 
 ## Authors
-
+Dr. Wonjae Yoo (wyoo@tamu.edu)
+Dr. Mark J. Clayton
+Dr. Wei Yan
 
