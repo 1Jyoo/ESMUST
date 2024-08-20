@@ -42,7 +42,7 @@ ESMUST was built using C# coding and is operating in Autodesk Revit Dynamo tool.
 
 
 ## Authors
-Dr. Wonjae Yoo (wyoo@tamu.edu)
+Dr. Wonjae Yoo (wyoo@gachon.ac.kr)
 
 Dr. Mark J. Clayton
 
